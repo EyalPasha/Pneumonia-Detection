@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Rays Using Deep Learning 🫁🧠
+# Pneumonia Detection from Chest X-Rays Using Special Approaches 🫁🧠
 
 ![image](https://github.com/EyalPasha/ML-Basics/assets/51478907/519c5f18-5345-4f1c-b498-22f415427703)
 
